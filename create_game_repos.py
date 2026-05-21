@@ -1,3 +1,6 @@
+import html
+import re
+import sys
 import re, sys
 from pathlib import Path
 
